@@ -1,0 +1,17 @@
+#container {
+  text-align: left;
+  display: inline-block;
+  width: 50%;
+  max-width: 500px;
+  height: 800px;
+}
+
+#preview-frame {
+  width: 50%;
+  max-width: 500px;
+  height: 800px;
+}
+
+body {
+  text-align: center;
+}
